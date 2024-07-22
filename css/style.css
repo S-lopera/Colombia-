@@ -1,6 +1,7 @@
 :root{
+
     --bgprimary:red;
-    --tect-primary:#fff;
+    --text-primary:#fff;
 }
 *{
     margin: 0px;
